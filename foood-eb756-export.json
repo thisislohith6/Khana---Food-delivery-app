@@ -1,0 +1,522 @@
+{
+  "Category" : {
+    "01" : {
+      "image" : "https://scm-assets.constant.co/swm/9a888e72fca371869e751ab34491d024/da7f2fe4-baaa-467e-954d-320cecdcb91b.jpg",
+      "name" : "Veg. Starters"
+    },
+    "02" : {
+      "image" : "http://demo.webulous.in/restaurant/wp-content/uploads/sites/5/2014/06/dhaba-chilli-chicken-recipe.jpg",
+      "name" : "Non Veg. Starters"
+    },
+    "03" : {
+      "image" : "http://mypullzone.9vexd6dl53at.maxcdn-edge.com/wp-content/uploads/2017/04/paneer-butter-masala-recipe-step-by-step-instructions.jpg",
+      "name" : "Veg Main Course"
+    },
+    "04" : {
+      "image" : "http://maunikagowardhan.co.uk/wp-content/uploads/2016/07/Nadan-Chicken-Perelan.jpg",
+      "name" : "Non Veg Main Course"
+    },
+    "05" : {
+      "image" : "http://cookingshooking.in/wp-content/uploads/2015/01/garlicnaan3.jpg",
+      "name" : "Indian Bread"
+    },
+    "06" : {
+      "image" : "https://cdn5.norecipes.com/wp-content/uploads/2017/05/05021751/chicken-biryani-12-1290x1934.jpg",
+      "name" : "Rice"
+    }
+  },
+  "Foods" : {
+    "01" : {
+      "description" : "Crispy vegetable spring rolls have mix of vegetables cooked in a typical Chinese sweet and sour sauce and filled in the rolls of thin rice based wrappings",
+      "discount" : "0",
+      "image" : "https://scm-assets.constant.co/swm/9a888e72fca371869e751ab34491d024/da7f2fe4-baaa-467e-954d-320cecdcb91b.jpg",
+      "menuId" : "01",
+      "name" : "Veg. Spring Roll",
+      "price" : "60"
+    },
+    "02" : {
+      "description" : "Cubes of deep fried paneer,coated with tangy chilli sauce",
+      "discount" : "0",
+      "image" : "http://gharbaithebazar.com/wp-content/uploads/2016/09/pns-Chilli-Paneer-Dry.jpg",
+      "menuId" : "01",
+      "name" : "Chilly Paneer",
+      "price" : "120"
+    },
+    "03" : {
+      "description" : "Fried paneer topped with chat masala",
+      "discount" : "0",
+      "image" : "http://www.sailusfood.com/wp-content/uploads/2013/03/paneer-pakora-recipe.jpg",
+      "menuId" : "01",
+      "name" : "Paneer Pakoda",
+      "price" : "120"
+    },
+    "04" : {
+      "description" : "Deep fried machurian balls topped with chilli sauce",
+      "discount" : "0",
+      "image" : "https://www.vegrecipesofindia.com/wp-content/uploads/2015/02/veg-manchurian-dry-recipe-4.jpg",
+      "menuId" : "01",
+      "name" : "Veg Manchuria",
+      "price" : "100"
+    },
+    "05" : {
+      "description" : "Crispy Fried potato similar to potato wedges",
+      "discount" : "0",
+      "image" : "https://4.imimg.com/data4/QG/FV/MY-26132318/honey-chilli-potato-500x500.jpg",
+      "menuId" : "01",
+      "name" : "Chilly Potato",
+      "price" : "70"
+    },
+    "06" : {
+      "description" : "Crunchy potato fries",
+      "discount" : "0",
+      "image" : "http://lakeyardcafe.com/wp-content/uploads/2016/12/french-fries-1200.jpg",
+      "menuId" : "01",
+      "name" : "French Fries",
+      "price" : "50"
+    },
+    "07" : {
+      "description" : "Smoked chicken in barbeque style!",
+      "discount" : "0",
+      "image" : "https://i.ytimg.com/vi/-CKvt1KNU74/maxresdefault.jpg",
+      "menuId" : "02",
+      "name" : "Chicken Tandoori",
+      "price" : "300"
+    },
+    "08" : {
+      "description" : "Deep fried Chicken,coated with tangy chilli sauce",
+      "discount" : "0",
+      "image" : "http://demo.webulous.in/restaurant/wp-content/uploads/sites/5/2014/06/dhaba-chilli-chicken-recipe.jpg",
+      "menuId" : "02",
+      "name" : "Chilly Chicken",
+      "price" : "300"
+    },
+    "09" : {
+      "description" : "Fried Crunchy Chicken",
+      "discount" : "0",
+      "image" : "https://media3.s-nbcnews.com/i/newscms/2017_07/1195080/fried-chicken-stock-today-tease-170213_9d8a1de19bd0eaab2f4d2284414ddbca.jpg",
+      "menuId" : "02",
+      "name" : "Fried Chicken",
+      "price" : "300"
+    },
+    "10" : {
+      "description" : "Crispy aloo balls dipped in gravy prepared in kashmiri style!",
+      "discount" : "0",
+      "image" : "http://www.ndtv.com/cooks/images/kashmiri-dum-aloo-620.jpg",
+      "menuId" : "03",
+      "name" : "Dum Aloo",
+      "price" : "80"
+    },
+    "11" : {
+      "description" : "Paneer fried and dipped in cashew gravy garnished with butter",
+      "discount" : "0",
+      "image" : "http://mypullzone.9vexd6dl53at.maxcdn-edge.com/wp-content/uploads/2017/04/paneer-butter-masala-recipe-step-by-step-instructions.jpg",
+      "menuId" : "03",
+      "name" : "Paneer Butter Masala",
+      "price" : "130"
+    },
+    "12" : {
+      "description" : "Paneer and colorful bell peppers are sauteed in spicy tomato gravy",
+      "discount" : "0",
+      "image" : "https://grofers.com/recipe/wp-content/uploads/2017/01/45-1.jpg?x84191",
+      "menuId" : "03",
+      "name" : "Kadhai Paneer",
+      "price" : "130"
+    },
+    "13" : {
+      "description" : "Cottage cheese with green peas are sauteed in tomato gravy",
+      "discount" : "0",
+      "image" : "https://i.ytimg.com/vi/yxJb-rEVAnE/maxresdefault.jpg",
+      "menuId" : "03",
+      "name" : "Matar Paneer",
+      "price" : "130"
+    },
+    "14" : {
+      "description" : "Cashewnut curry best served alongside naan and roti",
+      "discount" : "0",
+      "image" : "http://media.hungryforever.com/wp-content/uploads/2015/06/Kaju-masala.jpg",
+      "menuId" : "03",
+      "name" : "Kaju Curry",
+      "price" : "200"
+    },
+    "15" : {
+      "description" : "Boiled arhar dal is cooked with onion-tomato and spices",
+      "discount" : "0",
+      "image" : "http://hebbarskitchen.hebbars.netdna-cdn.com/wp-content/uploads/2016/06/dal-fry-2-768x1024.jpg",
+      "menuId" : "03",
+      "name" : "Dal Fry",
+      "price" : "90"
+    },
+    "16" : {
+      "description" : "Seasonal Vegetables cooked in Spicy Gravy",
+      "discount" : "0",
+      "image" : "http://cookingshooking.com/wp-content/uploads/2014/01/mvir.jpg",
+      "menuId" : "03",
+      "name" : "Mix Veg",
+      "price" : "100"
+    },
+    "17" : {
+      "description" : "Chicken cooked in tomato puree and cream",
+      "discount" : "0",
+      "image" : "https://i.ytimg.com/vi/a03U45jFxOI/maxresdefault.jpg",
+      "menuId" : "04",
+      "name" : "Butter Chicken",
+      "price" : "430"
+    },
+    "18" : {
+      "description" : "Chicken cooked in Spicy Gravy",
+      "discount" : "0",
+      "image" : "http://2.bp.blogspot.com/-LngWWOODLKQ/Ve6ShryClII/AAAAAAABFB0/ceCFll7e4Hg/s1600/bg.jpg",
+      "menuId" : "04",
+      "name" : "Kadhai Chicken",
+      "price" : "400"
+    },
+    "19" : {
+      "description" : "Chicken cooked in spicy tomato and onion gravy",
+      "discount" : "0",
+      "image" : "http://maunikagowardhan.co.uk/wp-content/uploads/2016/07/Nadan-Chicken-Perelan.jpg",
+      "menuId" : "04",
+      "name" : "Chicken Curry",
+      "price" : "400"
+    },
+    "20" : {
+      "description" : "Tandoori Roti without butter",
+      "discount" : "0",
+      "image" : "https://i.ytimg.com/vi/2SjcBBGSf8s/hqdefault.jpg",
+      "menuId" : "05",
+      "name" : "Tandoori Roti",
+      "price" : "8"
+    },
+    "21" : {
+      "description" : "Tandoori Roti with Butter",
+      "discount" : "0",
+      "image" : "http://www.amritsariexpress.com/wp-content/uploads/2014/11/butter-roti.jpg",
+      "menuId" : "05",
+      "name" : "Butter Roti",
+      "price" : "10"
+    },
+    "22" : {
+      "description" : "Naan spreaded with butter",
+      "discount" : "0",
+      "image" : "https://media-cdn.tripadvisor.com/media/photo-s/05/3d/52/a2/butter-naan.jpg",
+      "menuId" : "05",
+      "name" : "Butter Naan",
+      "price" : "30"
+    },
+    "23" : {
+      "description" : "Butter Naan topped with Garlic",
+      "discount" : "0",
+      "image" : "http://cookingshooking.in/wp-content/uploads/2015/01/garlicnaan3.jpg",
+      "menuId" : "05",
+      "name" : "Garlic Naan",
+      "price" : "40"
+    },
+    "24" : {
+      "description" : "Paratha stuffed with aloo",
+      "discount" : "0",
+      "image" : "http://cdn2.foodviva.com/static-content/food-images/north-indian-recipes/alu-paratha-recipe/alu-paratha-recipe.jpg",
+      "menuId" : "05",
+      "name" : "Aloo Paratha",
+      "price" : "30"
+    },
+    "25" : {
+      "description" : "Paratha stuffed with Paneer",
+      "discount" : "0",
+      "image" : "https://i1.wp.com/media.hungryforever.com/wp-content/uploads/2016/12/08124314/paneer-paratha-recipe.jpg?w=1269&strip=all&quality=80",
+      "menuId" : "05",
+      "name" : "Paneer Paratha",
+      "price" : "30"
+    },
+    "26" : {
+      "description" : "Spicy Hyderabadi Biryani prepared with seasonal Vegetables",
+      "discount" : "0",
+      "image" : "https://i1.wp.com/www.cookingfromheart.com/wp-content/uploads/2017/09/Veg-Biryani-in-Pressure-Cooker-6.jpg?resize=900%2C600",
+      "menuId" : "06",
+      "name" : "Veg Biryani",
+      "price" : "150"
+    },
+    "27" : {
+      "description" : "Spicy Hyderabadi Biryani prepared with seasonal Vegetables",
+      "discount" : "0",
+      "image" : "https://i1.wp.com/www.cookingfromheart.com/wp-content/uploads/2017/09/Veg-Biryani-in-Pressure-Cooker-6.jpg?resize=900%2C600",
+      "menuId" : "06",
+      "name" : "Veg Biryani(Half)",
+      "price" : "90"
+    },
+    "28" : {
+      "description" : "Rice fried with delicious veggies",
+      "discount" : "0",
+      "image" : "https://indianhealthyrecipes.com/wp-content/uploads/2016/07/veg-fried-rice-recipes.jpg",
+      "menuId" : "06",
+      "name" : "Veg Fried Rice",
+      "price" : "150"
+    },
+    "29" : {
+      "description" : "Rice fried with delicious veggies",
+      "discount" : "0",
+      "image" : "https://indianhealthyrecipes.com/wp-content/uploads/2016/07/veg-fried-rice-recipes.jpg",
+      "menuId" : "06",
+      "name" : "Veg Fried Rice(Half)",
+      "price" : "90"
+    },
+    "30" : {
+      "description" : "Biryani prepared with Scrambled Paneer",
+      "discount" : "0",
+      "image" : "https://justhindi.in/recipes/wp-content/uploads/2017/04/xPaneer-Biryani-678x381.jpg.pagespeed.ic.-sspLeR4lk.jpg",
+      "menuId" : "06",
+      "name" : "Paneer Bhurji Biryani",
+      "price" : "200"
+    },
+    "31" : {
+      "description" : "Biryani prepared with Scrambled Paneer",
+      "discount" : "0",
+      "image" : "https://justhindi.in/recipes/wp-content/uploads/2017/04/xPaneer-Biryani-678x381.jpg.pagespeed.ic.-sspLeR4lk.jpg",
+      "menuId" : "06",
+      "name" : "Paneer Bhurji Biryani(Half)",
+      "price" : "100"
+    },
+    "32" : {
+      "description" : "Biryani prepared with egg",
+      "discount" : "0",
+      "image" : "http://www.myfridayfoodswings.com/wp-content/uploads/2015/09/biryani3-800x531.jpg",
+      "menuId" : "06",
+      "name" : "Egg Biryani",
+      "price" : "150"
+    },
+    "33" : {
+      "description" : "Biryani prepared with egg",
+      "discount" : "0",
+      "image" : "http://www.myfridayfoodswings.com/wp-content/uploads/2015/09/biryani3-800x531.jpg",
+      "menuId" : "06",
+      "name" : "Egg Biryani(Half)",
+      "price" : "90"
+    },
+    "34" : {
+      "description" : "Rice fried with delicious veggies and egg",
+      "discount" : "0",
+      "image" : "https://indianhealthyrecipes.com/wp-content/uploads/2014/10/egg-fried-rice-recipe-10.jpg",
+      "menuId" : "06",
+      "name" : "Egg Fried Rice",
+      "price" : "150"
+    },
+    "35" : {
+      "description" : "Rice fried with delicious veggies and egg",
+      "discount" : "0",
+      "image" : "https://indianhealthyrecipes.com/wp-content/uploads/2014/10/egg-fried-rice-recipe-10.jpg",
+      "menuId" : "06",
+      "name" : "Egg Fried Rice(Half)",
+      "price" : "90"
+    },
+    "36" : {
+      "description" : "Rice fried with chicken",
+      "discount" : "0",
+      "image" : "http://www.angaarakababs.com/wp-content/uploads/2017/10/chicken-fried-rice.jpg",
+      "menuId" : "06",
+      "name" : "Chicken Fried Rice",
+      "price" : "280"
+    },
+    "37" : {
+      "description" : "Rice fried with chicken",
+      "discount" : "0",
+      "image" : "http://www.angaarakababs.com/wp-content/uploads/2017/10/chicken-fried-rice.jpg",
+      "menuId" : "06",
+      "name" : "Chicken Fried Rice(Half)",
+      "price" : "170"
+    },
+    "38" : {
+      "description" : "Spicy Hyderabadi Biryani prepared with Chicken",
+      "discount" : "0",
+      "image" : "https://cdn5.norecipes.com/wp-content/uploads/2017/05/05021751/chicken-biryani-12-1290x1934.jpg",
+      "menuId" : "06",
+      "name" : "Chicken Biryani",
+      "price" : "300"
+    },
+    "39" : {
+      "description" : "Spicy Hyderabadi Biryani prepared with Chicken",
+      "discount" : "0",
+      "image" : "https://cdn5.norecipes.com/wp-content/uploads/2017/05/05021751/chicken-biryani-12-1290x1934.jpg",
+      "menuId" : "06",
+      "name" : "Chicken Biryani(Half)",
+      "price" : "150"
+    },
+    "40" : {
+      "description" : "Spicy Biryani prepared with chicken keema pieces",
+      "discount" : "0",
+      "image" : "https://i2.wp.com/media.hungryforever.com/wp-content/uploads/2017/09/06130724/keema-biryani.jpg?w=1269&strip=all&quality=80",
+      "menuId" : "06",
+      "name" : "Chicken Keema Biryani",
+      "price" : "350"
+    },
+    "41" : {
+      "description" : "Spicy Biryani prepared with chicken keema pieces",
+      "discount" : "0",
+      "image" : "https://i2.wp.com/media.hungryforever.com/wp-content/uploads/2017/09/06130724/keema-biryani.jpg?w=1269&strip=all&quality=80",
+      "menuId" : "06",
+      "name" : "Chicken Keema Biryani(Half)",
+      "price" : "190"
+    },
+    "42" : {
+      "description" : "Chicken cooked in tomato puree and cream",
+      "discount" : "0",
+      "image" : "https://i.ytimg.com/vi/a03U45jFxOI/maxresdefault.jpg",
+      "menuId" : "04",
+      "name" : "Butter Chicken(Half)",
+      "price" : "220"
+    },
+    "43" : {
+      "description" : "Chicken cooked in Spicy Gravy",
+      "discount" : "0",
+      "image" : "http://2.bp.blogspot.com/-LngWWOODLKQ/Ve6ShryClII/AAAAAAABFB0/ceCFll7e4Hg/s1600/bg.jpg",
+      "menuId" : "04",
+      "name" : "Kadhai Chicken(Half)",
+      "price" : "200"
+    },
+    "44" : {
+      "description" : "Chicken cooked in spicy tomato and onion gravy",
+      "discount" : "0",
+      "image" : "http://maunikagowardhan.co.uk/wp-content/uploads/2016/07/Nadan-Chicken-Perelan.jpg",
+      "menuId" : "04",
+      "name" : "Chicken Curry(Half)",
+      "price" : "220"
+    },
+    "45" : {
+      "description" : "Smoked chicken in barbeque style!",
+      "discount" : "0",
+      "image" : "https://i.ytimg.com/vi/-CKvt1KNU74/maxresdefault.jpg",
+      "menuId" : "02",
+      "name" : "Chicken Tandoori(Half)",
+      "price" : "160"
+    },
+    "46" : {
+      "description" : "Deep fried Chicken,coated with tangy chilli sauce",
+      "discount" : "0",
+      "image" : "http://demo.webulous.in/restaurant/wp-content/uploads/sites/5/2014/06/dhaba-chilli-chicken-recipe.jpg",
+      "menuId" : "02",
+      "name" : "Chilly Chicken(Half)",
+      "price" : "160"
+    },
+    "47" : {
+      "description" : "Fried Crunchy Chicken",
+      "discount" : "0",
+      "image" : "https://media3.s-nbcnews.com/i/newscms/2017_07/1195080/fried-chicken-stock-today-tease-170213_9d8a1de19bd0eaab2f4d2284414ddbca.jpg",
+      "menuId" : "02",
+      "name" : "Fried Chicken(Half)",
+      "price" : "160"
+    }
+  },
+  "Requests" : {
+    "1523102940245" : {
+      "address" : "Ajay",
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "120",
+        "productId" : "02",
+        "productName" : "Chilly Paneer",
+        "quantity" : "2"
+      }, {
+        "discount" : "0",
+        "price" : "120",
+        "productId" : "03",
+        "productName" : "Paneer Pakoda",
+        "quantity" : "1"
+      } ],
+      "name" : "nescafe",
+      "phone" : "7297029207",
+      "status" : "0",
+      "total" : "₹ 360.00"
+    },
+    "1523103429488" : {
+      "address" : "Ajay",
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "130",
+        "productId" : "12",
+        "productName" : "Kadhai Paneer",
+        "quantity" : "1"
+      } ],
+      "name" : "ac1",
+      "phone" : "7297029207",
+      "status" : "0",
+      "total" : "₹ 130.00"
+    },
+    "1523104066311" : {
+      "address" : "Ajay",
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "300",
+        "productId" : "09",
+        "productName" : "Fried Chicken",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "150",
+        "productId" : "26",
+        "productName" : "Veg Biryani",
+        "quantity" : "1"
+      } ],
+      "name" : "njhgfghbjnm",
+      "phone" : "7297029207",
+      "status" : "0",
+      "total" : "₹ 450.00"
+    },
+    "1523104330224" : {
+      "address" : "Ajay",
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "50",
+        "productId" : "06",
+        "productName" : "French Fries",
+        "quantity" : "1"
+      } ],
+      "name" : "w1`2eqefw",
+      "phone" : "7297029207",
+      "status" : "0",
+      "total" : "₹ 50.00"
+    },
+    "1523105060088" : {
+      "address" : "Ajay",
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "90",
+        "productId" : "29",
+        "productName" : "Veg Fried Rice(Half)",
+        "quantity" : "1"
+      } ],
+      "name" : "vvv",
+      "phone" : "7297029207",
+      "status" : "0",
+      "total" : "₹ 90.00"
+    }
+  },
+  "User" : {
+    "7297029206" : {
+      "IsStaff" : "true",
+      "name" : "Jon Snow",
+      "password" : "dany"
+    },
+    "7297029207" : {
+      "IsStaff" : "false",
+      "name" : "Ajay",
+      "password" : "chill"
+    },
+    "7412589635" : {
+      "IsStaff" : "false",
+      "name" : "dany",
+      "password" : "jonsnow"
+    },
+    "9010500352" : {
+      "IsStaff" : "false",
+      "name" : "Aravind",
+      "password" : "panda"
+    },
+    "9490878474" : {
+      "isStaff" : "false",
+      "name" : "Abhay",
+      "password" : "abhay"
+    },
+    "9602229276" : {
+      "IsStaff" : "false",
+      "name" : "vasikar",
+      "password" : "vasikar"
+    }
+  }
+}
